@@ -1,0 +1,55 @@
+button {
+	color: red;
+}
+
+select {
+	background: #ffffff;
+	border-radius: 2px;
+}
+
+form select {
+	background: transparent;
+}
+
+.output-displayer {
+
+}
+
+.tb-header {
+	background: pink;
+	padding: 5px;
+}
+
+.out-table {
+	border: 2px solid #000000;
+	box-shadow: 10px 10px 5px #808080;
+}
+
+tr{
+	padding: 10px;
+}
+
+td {
+	padding: 10px;
+}
+
+.sub {
+	color: #ffffff;
+	background-color: #666666;
+	border-radius: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.form {
+	margin: 30px 30px 30px 30px;
+	padding: 5px ;
+	border: 3px solid #000000;
+	border-radius: 5px;
+	background: #eeeeee;
+	text-align: center;
+}
+ 
+#result {
+	border: 2px solid #000000;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "tfc-test",
+  "version": "1.0.0",
+  "description": "The test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bharath_vijay@bitbucket.org/bharath_vijay/tfc-jstest.git"
+  },
+  "author": "Silenced_v2",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bharath_vijay/tfc-jstest#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "bower": "^1.5.2",
+    "express": "^4.13.3",
+    "md5": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.11.0"
+  }
+}
